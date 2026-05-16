@@ -1,2 +1,2 @@
 # Fraudulent-Transaction-Prediction-Model
-This project focuses on developing a Machine Learning-based Fraudulent Transaction Prediction System using a large financial transaction dataset in CSV format containing 6,362,620 rows and 10 columns. The objective of the project is to identify fraudulent transactions by analyzing transaction patterns and applying classification techniques.
+Developed a Fraudulent Transaction Prediction System using machine learning to identify and prevent suspicous financial transactions from a dataset of 6.3 million records. Performed data preprocessing, exploratory data analysis, and trained a Decision Tree Classifier with hyperparameter tuning to improve fraud detection accuracy.
